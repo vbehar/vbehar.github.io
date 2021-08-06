@@ -2,7 +2,7 @@
 title: "Kaniko"
 date: 2018-09-01
 featured: false
-description: "In 2018 I fixed some bugs in Kaniko, related to multi-stage builds and container re-use."
+description: "Since 2018 I contributed a few new features and bug fixes to the Kaniko project."
 tags: ["Kaniko","Go"]
 image: "/img/oss-project-kaniko.png"
 link: "https://github.com/GoogleContainerTools/kaniko"
@@ -18,3 +18,7 @@ In 2018 when I started using [Jenkins X](https://jenkins-x.io/) to power our CI/
 Unfortunately, as explained in the [Dailymotion's journey from Jenkins to Jenkins X](/publications/2019-01-article-from-jenkins-to-jenkins-x/) blog post I wrote, I found a few bugs which [I fixed in Kaniko](https://github.com/GoogleContainerTools/kaniko/issues?q=author%3Avbehar):
 - [Fix for multi-stage builds](https://github.com/GoogleContainerTools/kaniko/pull/369)
 - [Fix to allow building multiple images using the same container](https://github.com/GoogleContainerTools/kaniko/pull/370)
+
+I also added a few new features:
+- [Support for multiple registry mirrors with fallback](https://github.com/GoogleContainerTools/kaniko/pull/1498)
+- [Warmer now supports all registry-related flags](https://github.com/GoogleContainerTools/kaniko/pull/1499)

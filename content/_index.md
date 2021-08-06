@@ -12,4 +12,4 @@ outputs:
 - rss
 - json
 ---
-Software Engineer with 12+ years of experience using various languages (Go, Java, ...) with a DevOps mindset. Building CI/CD pipelines and tooling to automate delivery using public cloud. Open-source contributor and speaker/blogger.
+Software Engineer with 14+ years of experience. _I'm a developer, and I love it ;-)_ Open-source contributor/maintainer, occasional speaker/blogger. My buzzwords of the moment are Go, Kubernetes, Continuous Delivery, Observability, ...

@@ -13,14 +13,23 @@ sitemap:
 
 [Jenkins X](https://jenkins-x.io/) is a CI/CD platform on top of [Kubernetes](https://kubernetes.io/). I started using it while it was still a young project, in september 2018.
 
-I made various contributions to different components of this open-source project:
-- [jx](https://github.com/jenkins-x/jx/issues?q=author%3Avbehar) - the core component
-- [jenkins-x-platform](https://github.com/jenkins-x/jenkins-x-platform/issues?q=author%3Avbehar) - the [Helm](https://helm.sh/) chart for Jenkins X
-- [jenkins-x-builders](https://github.com/jenkins-x/jenkins-x-builders/issues?q=author%3Avbehar) - the container images definitions
-- [jenkins-x-image](https://github.com/jenkins-x/jenkins-x-image/pulls?q=author%3Avbehar) - the container image definition for [Jenkins](https://jenkins.io/)
-- [exposecontroller](https://github.com/jenkins-x/exposecontroller/issues?q=author%3Avbehar) - a component used to automatically exposes services to the Internet
-- [updatebot](https://github.com/jenkins-x/updatebot/issues?q=author%3Avbehar) - a tool used to create Pull Requests to propagate releases when working with Gitops
+I made various contributions:
+- code, of course - including bug fixes and new features
+- documentation and blog posts on the [Jenkins X blog](https://jenkins-x.io/blog/)
+- support on the [community Slack channels](https://jenkins-x.io/community/#slack)
+- demos at [Office Hours](https://jenkins-x.io/community/office_hours/) - see [recordings on YouTube](https://www.youtube.com/playlist?list=PLr_PmC4W69dIdqUUy-PAitbkqsujNLBf1)
+- talks at conferences and meetups, and interviews on podcasts
+- ...
 
-I also wrote an [asdf](https://asdf-vm.com/) plugin for Jenkins X: [asdf-jx](https://github.com/vbehar/asdf-jx).
+I also got a few awards, such as:
+- **Most Valuable Jenkins X Contributor** at the [2021 Continuous Delivery Foundation Community Awards](https://cd.foundation/blog/2021/06/25/continuous-delivery-foundation-announces-2021-cdf-community-awards-winners/) - see the [video on YouTube](https://youtu.be/ZYEfJrKc8ig?t=228)
+- **Most Innovative Jenkins X Implementation** at the [2019 Jenkins Community Awards](https://www.cloudbees.com/press/2019-devops-world-jenkins-world-award-winners-announced) - see the [video on YouTube](https://youtu.be/U-fI_-in6Lo?t=593)
 
-But contributing is not limited to code. I also wrote [blog posts](/tags/blog-post/) and gave [various talks](/tags/talk/) about Jenkins X, and our experience using it at [Dailymotion](https://dailymotion.com/).
+I'm a maintainer on a few Jenkins X components:
+- the [Jenkins X Pipelines Visualizer](https://github.com/jenkins-x/jx-pipelines-visualizer) - a webui to visualize the pipelines and their logs
+- the [Lighthouse WebUI Plugin](https://github.com/jenkins-x-plugins/lighthouse-webui-plugin) - a webui to visualize webhooks events, Lighthouse jobs, merge status and history
+- [Jenkins X Release Version](https://github.com/jenkins-x-plugins/jx-release-version) - a simple binary to calculate the next release version
+- everything observability-related, including:
+  - [Lighthouse Telemetry Plugin](https://github.com/jenkins-x/lighthouse-telemetry-plugin) - to produce distributed traces for pipelines and gitops workflows
+  - [Continuous Delivery Indicators for Jenkins X](https://github.com/jenkins-x/cd-indicators) - to collect various metrics, store them, and display them through Grafana dashboards
+  - [Grafana Dashboards](https://github.com/jenkins-x-charts/grafana-dashboard) - a set of Grafana dashboards for the Jenkins X platform

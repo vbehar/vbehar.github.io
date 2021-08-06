@@ -18,3 +18,5 @@ It is written in [Scala](https://www.scala-lang.org/) and uses the Flowdock REST
 Here is a screenshot of the Kibana dashboard:
 
 ![Flowdock2es Screenshot](/img/oss-project-flowdock2es.png)
+
+{{< tweet 456830005872709632 >}}

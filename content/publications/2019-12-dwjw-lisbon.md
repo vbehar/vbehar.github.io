@@ -2,7 +2,7 @@
 title: "1 year with Jenkins X"
 date: 2019-12-05
 pubtype: "Conference Talk"
-featured: true
+featured: false
 description: "At the DevOps World | Jenkins World 2019 Conference, I gave a talk to share our experience using Jenkins X at Dailymotion for more than 1 year: how we adopted Jenkins X and its new practices – both on the organizational and technical side."
 tags: ["Talk","Conference","Jenkins X","CI/CD","Dailymotion"]
 image: "/img/2019-12-dwjw-lisbon.jpg"
