@@ -38,8 +38,6 @@ The [Lighthouse Telemetry Plugin](https://github.com/jenkins-x/lighthouse-teleme
 - Jenkins X pipelines
 - Jenkins X gitops workflow
 
-{{< tweet 1380278458513690624 >}}
-
 {{< tweet 1378010544368717829 >}}
 
 {{< tweet 1422936575562895367 >}}
