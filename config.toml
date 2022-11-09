@@ -44,6 +44,10 @@ enableGitInfo = true
     link = "https://twitter.com/vbehar/"
 
 [[params.handles]]
+    name = "Mastodon"
+    link = "https://hachyderm.io/@vbehar"
+
+[[params.handles]]
     name = "GitHub"
     link = "https://github.com/vbehar/"
 
