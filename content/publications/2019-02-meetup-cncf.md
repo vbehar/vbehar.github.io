@@ -24,10 +24,10 @@ In this talk, I shared our experience migrating our [Dailymotion](https://dailym
 
 Cover tools such as Kubernetes, Jenkins, Helm, Kaniko, GKE, Osiris, ...
 
-{{< tweet 1097931226529386496 >}}
+{{< tweet user="cncfparis" id="1097931226529386496" >}}
 
-{{< tweet 1098250618534313984 >}}
+{{< tweet user="dailymotionEng" id="1098250618534313984" >}}
 
-{{< tweet 1097928771808751616 >}}
+{{< tweet user="kanedafromparis" id="1097928771808751616" >}}
 
-{{< tweet 1098119445518663681 >}}
+{{< tweet user="vbehar" id="1098119445518663681" >}}

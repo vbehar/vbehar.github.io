@@ -22,6 +22,6 @@ Note that this talk is in french.
 
 {{< youtube id="xAVTBc4KmKM" t="80" width="600px" >}}
 
-{{< tweet 1138831548420186114 >}}
+{{< tweet user="LeadingByDev" id="1138831548420186114" >}}
 
-{{< tweet 1138829793758253056 >}}
+{{< tweet user="dailymotionEng" id="1138829793758253056" >}}

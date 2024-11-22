@@ -9,6 +9,6 @@
     },
     {
         "grouping": "Technologies",
-        "skills":   ["Go","Java","Kubernetes","Helm","Jenkins X","Docker","Postgres","Git","Google Cloud Platform"]
+        "skills":   ["Go","Kubernetes","Docker","Dagger","Postgres","Git","Google Cloud Platform"]
     }
 ]

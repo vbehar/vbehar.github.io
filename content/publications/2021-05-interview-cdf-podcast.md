@@ -18,4 +18,4 @@ We talked about how we are using and contributing to [Jenkins X](https://jenkins
 - our story with Jenkins X
 - our contributions - the web UI & the observability stack - and why we contribute
 
-{{< tweet 1395712757312405507 >}}
+{{< tweet user="CDeliveryFdn" id="1395712757312405507" >}}

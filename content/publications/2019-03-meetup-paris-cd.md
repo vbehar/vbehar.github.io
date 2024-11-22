@@ -20,8 +20,8 @@ In this talk, I focused on [Jenkins X](https://jenkins-x.io/) Preview Environmen
 - how we are customizing the environments using Helm
 - how we are managing the environments and avoiding too many idle resources with [Osiris](https://github.com/deislabs/osiris)
 
-{{< tweet 1111352141380231168 >}}
+{{< tweet user="ygrenzinger" id="1111352141380231168" >}}
 
-{{< tweet 1111584814577143808 >}}
+{{< tweet user="dailymotionEng" id="1111584814577143808" >}}
 
-{{< tweet 1111579903357583361 >}}
+{{< tweet user="vbehar" id="1111579903357583361" >}}

@@ -1,6 +1,6 @@
 ---
 title: "Vincent Behar"
-date: 2019-12-19T18:56:13-05:00
+date: 2024-11-21T18:56:13-05:00
 sitemap:
   priority : 1.0
 
@@ -12,4 +12,4 @@ outputs:
 - rss
 - json
 ---
-Software Engineer with 14+ years of experience. _I'm a developer, and I love it ;-)_ Open-source contributor/maintainer, occasional speaker/blogger. My buzzwords of the moment are Go, Kubernetes, Continuous Delivery, Observability, ...
+Software Engineer with 17+ years of experience. _I'm a developer, and I love it ;-)_ Open-source contributor/maintainer, occasional speaker/blogger. My buzzwords of the moment are Go, Kubernetes, Continuous Delivery, Observability, GenAI, ...

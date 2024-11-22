@@ -19,9 +19,9 @@ Since 2020, I started contributing more to Jenkins X by creating new components,
 
 The first new project I created for Jenkins X was the [JX Pipelines Visualizer](https://github.com/jenkins-x/jx-pipelines-visualizer): a web UI to visualize the pipelines and their logs.
 
-{{< tweet 1309030017079349251 >}}
+{{< tweet user="vbehar" id="1309030017079349251" >}}
 
-{{< tweet 1351205169195847681 >}}
+{{< tweet user="vbehar" id="1351205169195847681" >}}
 
 ### Continuous Delivery Indicators
 
@@ -30,7 +30,7 @@ Based on our work at Dailymotion around Continuous Delivery Indicators, I create
 - store these events in a PostgreSQL database
 - visualize the metrics/indicators through Grafana dashboards
 
-{{< tweet 1377893014304133120 >}}
+{{< tweet user="vbehar" id="1377893014304133120" >}}
 
 ### Lighthouse Telemetry
 
@@ -38,9 +38,9 @@ The [Lighthouse Telemetry Plugin](https://github.com/jenkins-x/lighthouse-teleme
 - Jenkins X pipelines
 - Jenkins X gitops workflow
 
-{{< tweet 1378010544368717829 >}}
+{{< tweet user="vbehar" id="1378010544368717829" >}}
 
-{{< tweet 1422936575562895367 >}}
+{{< tweet user="vbehar" id="1422936575562895367" >}}
 
 ### Lighthouse WebUI
 

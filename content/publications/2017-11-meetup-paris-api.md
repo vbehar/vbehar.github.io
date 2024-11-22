@@ -22,6 +22,6 @@ In this talk, we explained how we are using Go to build our new ad-tech platform
 
 {{< dailymotion id="x6890ra" t="80" width="600px" >}}
 
-{{< tweet 927969095076761601 >}}
+{{< tweet user="Paris_API" id="927969095076761601" >}}
 
-{{< tweet 928250619185508352 >}}
+{{< tweet user="dailymotionEng" id="928250619185508352" >}}

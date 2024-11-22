@@ -1,10 +1,18 @@
 [
     {
+        "role":     "Senior Software Enginner",
+        "company":  "Ubisoft",
+        "summary":  "Work on an Internal Developer Platform. Rewrite the Gateway Control Plane as a Kubernetes Operator. Build a managed Kubernetes offering for Game Servers based on Talos Linux. Mentoring, public speaking.",
+        "tags":     ["Go","Kubernetes","Talos","Azure","OpenStack","Kong"],
+        "range":    "Since September 2021",
+        "image":    "/img/ubisoft.png"
+    },
+    {
         "role":     "Principal Engineer / Software Architect",
         "company":  "Dailymotion",
         "summary":  "Setup a new CI/CD platform on Kubernetes using Jenkins X, and rewrite the applications pipelines. Drive the migration of the ad-tech platform to Kubernetes and Google Cloud Platform. Build custom tooling and ensure we follow best practices. Both internal and external communication on our practices: blog posts, meetups & conferences talks.",
         "tags":     ["Go","Jenkins X","Kubernetes","Google Cloud Platform"],
-        "range":    "Since March 2019",
+        "range":    "March 2019 - August 2021",
         "image":    "/img/dailymotion.png"
     },
     {

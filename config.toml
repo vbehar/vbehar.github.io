@@ -17,7 +17,7 @@ enableGitInfo = true
     contactNote = "Dev Tools Engineer"
     profileImage = "img/vbehar.jpg"
     email = "vincent@behar.name"
-    description = "Software Engineer with 12+ years of experience using various languages (Go, Java, ...) with a DevOps mindset. Building CI/CD pipelines and tooling to automate delivery using public cloud. Open-source contributor and speaker/blogger."
+    description = "Software Engineer with 17+ years of experience. I'm a developer, and I love it ;-) Open-source contributor/maintainer, occasional speaker/blogger. My buzzwords of the moment are Go, Kubernetes, Continuous Delivery, Observability, GenAI, ..."
     favicon = "favicon.ico"
     # what sections
     showSkills = true
@@ -38,6 +38,10 @@ enableGitInfo = true
     name = "Download Resume"
     link = "/cv/vincent-behar.pdf"
     customIcon = "file-pdf"
+
+[[params.handles]]
+    name = "Bluesky"
+    link = "https://bsky.app/profile/vbehar.dev/"
 
 [[params.handles]]
     name = "Twitter"

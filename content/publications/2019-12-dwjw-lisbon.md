@@ -26,4 +26,4 @@ I did go through our custom implementation of Jenkins X:
 
 Unfortunately this talk was not recorded, but you can read the related blog post: [one year with Jenkins X](/publications/2020-03-article-one-year-with-jenkins-x/).
 
-{{< tweet 1202601312111730689 >}}
+{{< tweet user="abayer" id="1202601312111730689" >}}

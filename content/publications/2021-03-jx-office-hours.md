@@ -16,4 +16,4 @@ At the [Jenkins X Office Hours](https://jenkins-x.io/community/office_hours/), i
 
 {{< youtube id="ncxVtltXgno" width="600px" >}}
 
-{{< tweet 1373987046939881474 >}}
+{{< tweet user="vbehar" id="1373987046939881474" >}}

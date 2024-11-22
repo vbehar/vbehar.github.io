@@ -20,4 +20,4 @@ While migrating pipelines from the Jenkins Declarative Syntax to the new Jenkins
 
 You can read [the series](https://medium.com/@vbehar/jenkins-x-pipelines-internals-fc28718562bc) on Medium.
 
-{{< tweet 1223234229565382657 >}}
+{{< tweet user="abayer" id="1223234229565382657" >}}

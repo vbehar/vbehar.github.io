@@ -21,5 +21,3 @@ Update: there was a more recent blog post on [New features in the pipelines visu
 And of course you can watch the demo on youtube:
 
 {{< youtube id="zv0Dn9RYzwE" t="709" width="600px" >}}
-
-{{< tweet 1308450828576067584 >}}

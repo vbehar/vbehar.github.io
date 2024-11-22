@@ -20,4 +20,4 @@ The content of this blog post was also presented at the [DevOps World | Jenkins 
 
 You can read [the full blog post](https://medium.com/dailymotion/one-year-with-jenkins-x-66e1b29ffd93) on Medium.
 
-{{< tweet 1234885847637471233 >}}
+{{< tweet user="guillaumeclement" id="1234885847637471233" >}}

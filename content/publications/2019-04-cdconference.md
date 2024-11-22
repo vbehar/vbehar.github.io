@@ -20,4 +20,4 @@ In this talk, I explained [Dailymotion](https://dailymotion.com/)'s reasons for 
 
 {{< youtube id="KkGxyssqwJM" t="80" width="600px" >}}
 
-{{< tweet 1123267185416208384 >}}
+{{< tweet user="devopsdotcom" id="1123267185416208384" >}}
