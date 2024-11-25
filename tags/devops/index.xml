@@ -1,11 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on Vincent Behar</title><link>https://vincent.behar.name/tags/devops/</link><description>Recent content in DevOps on Vincent Behar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent.behar.name/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Interview on the DevOps Radio Podcast</title><link>https://vincent.behar.name/publications/2020-07-interview-devops-radio-podcast/</link><pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2020-07-interview-devops-radio-podcast/</guid><description>At the DevOps World | Jenkins World 2019 Conference in Lisbon, I was interviewed by Brian Dawson from the DevOps Radio podcast.
-We talked about:
-me Dailymotion Dailymotion&amp;rsquo;s ad-tech platform Continuous Delivery Jenkins X</description></item><item><title>Interview with Digital Anarchist</title><link>https://vincent.behar.name/publications/2019-12-interview-dwjw-lisbon/</link><pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2019-12-interview-dwjw-lisbon/</guid><description>At the DevOps World | Jenkins World 2019 Conference in Lisbon, I was interviewed by Alan Shimel from Digital Anarchist.
-We talked about:
-Dailymotion Dailymotion&amp;rsquo;s ad-tech platform Technologies we use at Dailymotion: Cloud, Kubernetes, Jenkins X Practices we use at Dailymotion: Gitops Microservices and monoliths Why people go to conferences?</description></item><item><title>Confessions of an anonymous developer</title><link>https://vincent.behar.name/publications/2011-04-article-cd/</link><pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2011-04-article-cd/</guid><description>In 2011, I wrote a blog post on the Paris DevOps Meetup website, explaining on we adopted a DevOps mindset at RTL, step by step:
-starting with basic communication tools, such as a common &amp;ldquo;chat&amp;rdquo; tool - Jabber - between devs and ops sharing data - logs - and tools to access them working together on automation tools getting devs to deploy their applications themselves and the impacts You can read the full blog post - in french.</description></item><item><title>Continuous Deployment with Jenkins and Rundeck</title><link>https://vincent.behar.name/publications/2011-03-meetup-paris-devops/</link><pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2011-03-meetup-paris-devops/</guid><description>At the Paris DevOps meetup, at the march 2011 session, I gave a talk titled Continuous Deployment with Jenkins and Rundeck with my colleague Bruno.
-Bruno presented Rundeck first, and how it can be used to automate operations.
-And then I explained how we used it at RTL, to build a Continuous Deployment pipeline using Jenkins and Nexus:
-for our staging environment, we enabled a continuous deployment workflow - which we called &amp;ldquo;0-click deployment&amp;rdquo; for our production environment, we enabled a continuous delivery workflow - which we called &amp;ldquo;1-click deployment&amp;rdquo; Read the full meetup report - in french.</description></item><item><title>Paris DevOps</title><link>https://vincent.behar.name/projects/creations/parisdevops/</link><pubDate>Sun, 27 Mar 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/projects/creations/parisdevops/</guid><description>In 2011, soon after the creation of the Paris DevOps Meetup group, I joined the team and help organize the meetups.
-I built the parisdevops.fr using Jekyll on GitHub Pages: https://github.com/parisdevops/parisdevops.github.com
-I wrote content on the website and organized meetups for a few months in 2011.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on Vincent Behar</title><link>https://vincent.behar.name/tags/devops/</link><description>Recent content in DevOps on Vincent Behar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 10:45:38 +0100</lastBuildDate><atom:link href="https://vincent.behar.name/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Interview on the DevOps Radio Podcast</title><link>https://vincent.behar.name/publications/2020-07-interview-devops-radio-podcast/</link><pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2020-07-interview-devops-radio-podcast/</guid><description>&lt;p>At the &lt;a href="https://devopsworldjenkinsworld2019lisbo.sched.com/">DevOps World | Jenkins World 2019 Conference&lt;/a> in Lisbon, I was interviewed by &lt;a href="https://twitter.com/brianvdawson">Brian Dawson&lt;/a> from the &lt;a href="https://www.cloudbees.com/resources/devops-radio/">DevOps Radio podcast&lt;/a>.&lt;/p>
+&lt;p>We talked about:&lt;/p>
+&lt;ul>
+&lt;li>me&lt;/li>
+&lt;li>&lt;a href="https://dailymotion.com/">Dailymotion&lt;/a>&lt;/li>
+&lt;li>Dailymotion&amp;rsquo;s ad-tech platform&lt;/li>
+&lt;li>Continuous Delivery&lt;/li>
+&lt;li>Jenkins X&lt;/li>
+&lt;/ul></description></item><item><title>Interview with Digital Anarchist</title><link>https://vincent.behar.name/publications/2019-12-interview-dwjw-lisbon/</link><pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2019-12-interview-dwjw-lisbon/</guid><description>&lt;p>At the &lt;a href="https://devopsworldjenkinsworld2019lisbo.sched.com/">DevOps World | Jenkins World 2019 Conference&lt;/a> in Lisbon, I was interviewed by &lt;a href="https://twitter.com/ashimmy">Alan Shimel&lt;/a> from &lt;a href="https://digitalanarchist.com/">Digital Anarchist&lt;/a>.&lt;/p>
+&lt;p>We talked about:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://dailymotion.com/">Dailymotion&lt;/a>&lt;/li>
+&lt;li>Dailymotion&amp;rsquo;s ad-tech platform&lt;/li>
+&lt;li>Technologies we use at Dailymotion: Cloud, Kubernetes, Jenkins X&lt;/li>
+&lt;li>Practices we use at Dailymotion: Gitops&lt;/li>
+&lt;li>Microservices and monoliths&lt;/li>
+&lt;li>Why people go to conferences?&lt;/li>
+&lt;/ul>
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe src="https://videopress.com/embed/A2tvkQXK" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen allow="autoplay" title="VideoPress Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Confessions of an anonymous developer</title><link>https://vincent.behar.name/publications/2011-04-article-cd/</link><pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2011-04-article-cd/</guid><description>&lt;p>In 2011, I wrote a blog post on the &lt;a href="http://parisdevops.fr/">Paris DevOps&lt;/a> Meetup website, explaining on we adopted a DevOps mindset at RTL, step by step:&lt;/p>
+&lt;ul>
+&lt;li>starting with basic communication tools, such as a common &amp;ldquo;chat&amp;rdquo; tool - Jabber - between devs and ops&lt;/li>
+&lt;li>sharing data - logs - and tools to access them&lt;/li>
+&lt;li>working together on automation tools&lt;/li>
+&lt;li>getting devs to deploy their applications themselves&lt;/li>
+&lt;li>and the impacts&lt;/li>
+&lt;/ul>
+&lt;p>You can read &lt;a href="http://parisdevops.fr/blog/2011/04/04/confessions-d-un-developpeur-anonyme.html">the full blog post&lt;/a> - in french.&lt;/p></description></item><item><title>Continuous Deployment with Jenkins and Rundeck</title><link>https://vincent.behar.name/publications/2011-03-meetup-paris-devops/</link><pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2011-03-meetup-paris-devops/</guid><description>&lt;p>At the &lt;a href="http://parisdevops.fr/">Paris DevOps&lt;/a> meetup, at the &lt;a href="http://parisdevops.fr/blog/2011/03/17/compte-rendu-du-3-eme-meetup-paris-devops.html">march 2011&lt;/a> session, I gave a talk titled &lt;strong>Continuous Deployment with Jenkins and Rundeck&lt;/strong> with my colleague Bruno.&lt;/p>
+&lt;p>Bruno presented &lt;a href="https://www.rundeck.com/open-source">Rundeck&lt;/a> first, and how it can be used to automate operations.&lt;/p>
+&lt;p>And then I explained how we used it at RTL, to build a Continuous Deployment pipeline using Jenkins and Nexus:&lt;/p>
+&lt;ul>
+&lt;li>for our staging environment, we enabled a continuous deployment workflow - which we called &amp;ldquo;0-click deployment&amp;rdquo;&lt;/li>
+&lt;li>for our production environment, we enabled a continuous delivery workflow - which we called &amp;ldquo;1-click deployment&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="http://parisdevops.fr/blog/2011/03/17/compte-rendu-du-3-eme-meetup-paris-devops.html">Read the full meetup report&lt;/a> - in french.&lt;/p></description></item><item><title>Paris DevOps</title><link>https://vincent.behar.name/projects/creations/parisdevops/</link><pubDate>Sun, 27 Mar 2011 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/projects/creations/parisdevops/</guid><description>&lt;p>In 2011, soon after the creation of the &lt;a href="http://parisdevops.fr/">Paris DevOps&lt;/a> Meetup group, I joined the team and help organize the meetups.&lt;/p>
+&lt;p>I built the &lt;a href="http://parisdevops.fr/">parisdevops.fr&lt;/a> using &lt;a href="https://github.com/mojombo/jekyll">Jekyll&lt;/a> on &lt;a href="https://pages.github.com/">GitHub Pages&lt;/a>: &lt;a href="https://github.com/parisdevops/parisdevops.github.com">https://github.com/parisdevops/parisdevops.github.com&lt;/a>&lt;/p>
+&lt;p>I wrote content on the website and organized meetups for a few months in 2011.&lt;/p></description></item></channel></rss>

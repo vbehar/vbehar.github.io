@@ -1,3 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>fosdem on Vincent Behar</title><link>https://vincent.behar.name/tags/fosdem/</link><description>Recent content in fosdem on Vincent Behar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent.behar.name/tags/fosdem/index.xml" rel="self" type="application/rss+xml"/><item><title>Collecting and visualizing Continuous Delivery Indicators</title><link>https://vincent.behar.name/publications/2021-02-fosdem/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2021-02-fosdem/</guid><description>At the Fosdem 2021 Conference, I gave a talk titled Collecting and visualizing Continuous Delivery Indicators in a Kubernetes-based CI/CD platform, using Jenkins X, Lighthouse, Tekton, PostgreSQL and Grafana in the CI/CD devroom.
-In this talk, I shared our experience at Dailymotion on:
-defining CD Indicators collecting them from a Kubernetes-based CI/CD platform storing them in PostgreSQL visualizing them using Grafana You can watch the talk on video.fosdem.org or directly here:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fosdem on Vincent Behar</title><link>https://vincent.behar.name/tags/fosdem/</link><description>Recent content in Fosdem on Vincent Behar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 10:45:38 +0100</lastBuildDate><atom:link href="https://vincent.behar.name/tags/fosdem/index.xml" rel="self" type="application/rss+xml"/><item><title>Collecting and visualizing Continuous Delivery Indicators</title><link>https://vincent.behar.name/publications/2021-02-fosdem/</link><pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate><guid>https://vincent.behar.name/publications/2021-02-fosdem/</guid><description>&lt;p>At the &lt;a href="https://fosdem.org/2021/">Fosdem 2021 Conference&lt;/a>, I gave a talk titled &lt;strong>Collecting and visualizing Continuous Delivery Indicators&lt;/strong> &lt;em>in a Kubernetes-based CI/CD platform, using Jenkins X, Lighthouse, Tekton, PostgreSQL and Grafana&lt;/em> in the &lt;a href="https://fosdem.org/2021/schedule/track/continuous_integration_and_continuous_deployment/">CI/CD devroom&lt;/a>.&lt;/p>
+&lt;p>In this talk, I shared our experience at &lt;a href="https://dailymotion.com/">Dailymotion&lt;/a> on:&lt;/p>
+&lt;ul>
+&lt;li>defining CD Indicators&lt;/li>
+&lt;li>collecting them from a Kubernetes-based CI/CD platform&lt;/li>
+&lt;li>storing them in PostgreSQL&lt;/li>
+&lt;li>visualizing them using Grafana&lt;/li>
+&lt;/ul>
+&lt;p>You can watch the talk on &lt;a href="https://video.fosdem.org/2021/D.cicd/collecting_and_visualizing_continuous_delivery_indicators.webm">video.fosdem.org&lt;/a> or directly here:&lt;/p>
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;video preload="none" controls="controls">
+ &lt;source src="https://video.fosdem.org/2021/D.cicd/collecting_and_visualizing_continuous_delivery_indicators.webm" type="video/webm">
+ &lt;/video>
+&lt;/div>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Feb. 7 at 13:45 CET &lt;a href="https://twitter.com/fosdem?ref_src=twsrc%5Etfw">@FOSDEM&lt;/a> &lt;br>Collecting and visualizing Continuous Delivery Indicators in a Kubernetes-based CI/CD platform, using @jenkinsxio, Lighthouse, &lt;a href="https://twitter.com/tektoncd?ref_src=twsrc%5Etfw">@tektoncd&lt;/a>, PostgreSQL and Grafana w/ speaker &lt;a href="https://twitter.com/vbehar?ref_src=twsrc%5Etfw">@vbehar&lt;/a> &lt;a href="https://t.co/CtvUdUqJYY">https://t.co/CtvUdUqJYY&lt;/a>&lt;/p></description></item></channel></rss>
